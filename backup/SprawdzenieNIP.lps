@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="SprawdzenieNIP.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="881"/>
+        <CursorPos X="6" Y="888"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="13">
+      <Position>
+        <Filename Value="SprawdzenieNIP.lpr"/>
+        <Caret Line="902" Column="32" TopLine="491"/>
+      </Position>
+      <Position>
+        <Filename Value="SprawdzenieNIP.lpr"/>
+        <Caret Line="65" Column="10" TopLine="50"/>
+      </Position>
+      <Position>
+        <Filename Value="SprawdzenieNIP.lpr"/>
+        <Caret Line="10" Column="17"/>
+      </Position>
+      <Position>
+        <Filename Value="SprawdzenieNIP.lpr"/>
+        <Caret Line="764" Column="20" TopLine="744"/>
+      </Position>
+      <Position>
+        <Filename Value="SprawdzenieNIP.lpr"/>
+        <Caret Line="7" Column="6"/>
+      </Position>
+      <Position>
+        <Filename Value="SprawdzenieNIP.lpr"/>
+        <Caret Line="8" Column="7"/>
+      </Position>
+      <Position>
+        <Filename Value="SprawdzenieNIP.lpr"/>
+        <Caret Line="849" Column="16" TopLine="847"/>
+      </Position>
+      <Position>
+        <Filename Value="SprawdzenieNIP.lpr"/>
+        <Caret Line="828" Column="18" TopLine="820"/>
+      </Position>
+      <Position>
+        <Filename Value="SprawdzenieNIP.lpr"/>
+        <Caret Line="830" Column="4" TopLine="816"/>
+      </Position>
+      <Position>
+        <Filename Value="SprawdzenieNIP.lpr"/>
+        <Caret Line="852" Column="7" TopLine="839"/>
+      </Position>
+      <Position>
+        <Filename Value="SprawdzenieNIP.lpr"/>
+        <Caret Line="10" Column="6"/>
+      </Position>
+      <Position>
+        <Filename Value="SprawdzenieNIP.lpr"/>
+        <Caret Line="63" Column="8" TopLine="46"/>
+      </Position>
+      <Position>
+        <Filename Value="SprawdzenieNIP.lpr"/>
+        <Caret Line="866" Column="36" TopLine="855"/>
+      </Position>
+      <Position>
+        <Filename Value="SprawdzenieNIP.lpr"/>
+        <Caret Line="887" Column="6" TopLine="881"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
